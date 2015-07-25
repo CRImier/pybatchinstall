@@ -1,0 +1,3 @@
+Base
+most basic packages (not included in netinstaller)
+nano git apt-utils gpm usbutils python-pip

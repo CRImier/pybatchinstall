@@ -1,0 +1,1 @@
+{"packages": ["raspi-config", "i2c-tools", "python-smbus"], "post-install": [], "name": "Raspberry Pi", "pre-install": [], "description": "some useful utilities"}

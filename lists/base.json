@@ -1,0 +1,1 @@
+{"packages": ["nano", "git", "apt-utils", "gpm", "usbutils", "python-pip"], "post-install": [], "name": "Base", "pre-install": [], "description": "most basic packages (not included in netinstaller)"}

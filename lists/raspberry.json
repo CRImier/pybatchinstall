@@ -1,0 +1,1 @@
+{"packages": ["raspi-config"], "post-install": [], "name": "Raspberry Pi", "pre-install": [], "description": "some useful utilities"}

@@ -1,0 +1,1 @@
+{"packages": ["bluez-firmware", "bluetooth", "bluez-tools", "btscanner", "bluez-test-scripts", "bluez"], "post-install": [], "name": "Bluetooth", "pre-install": [], "description": "support and utilities"}

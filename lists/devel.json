@@ -1,0 +1,1 @@
+{"packages": ["tmux", "screen", "build-essential", "python-dev", "nmap", "apt-file"], "post-install": [], "name": "Development", "pre-install": [], "description": "various packages to make it easier"}

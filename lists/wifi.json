@@ -1,0 +1,1 @@
+{"packages": ["wicd", "wicd-cli", "wicd-gtk", "wicd-curses", "firmware-atheros", "firmware-iwlwifi", "firmware-ralink", "firmware-realtek", "firmware-zd1211"], "post-install": [], "name": "Wireless", "pre-install": [], "description": "utilities&firmwares"}

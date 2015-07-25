@@ -1,0 +1,1 @@
+{"packages": ["alsa-tools", "alsa-tools-gui", "alsa-firmware-loaders"], "post-install": [], "name": "Audio", "pre-install": [], "description": "alsa and friends"}

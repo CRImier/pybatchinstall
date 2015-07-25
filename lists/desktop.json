@@ -1,0 +1,1 @@
+{"packages": ["openbox", "lxde", "iceweasel", "sudo", "arandr"], "post-install": [], "name": "Desktop", "pre-install": [], "description": "desktop environment packages (openbox+lxde combo)"}

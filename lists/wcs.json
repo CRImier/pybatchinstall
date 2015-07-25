@@ -1,0 +1,1 @@
+{"packages": ["python"], "post-install": ["pip install evdev", "cd /home/pi;git clone https://github.com/CRImier/WCS;cd WCS;./setup.sh"], "name": "WCS", "pre-install": [], "description": "Wearable Control System"}
